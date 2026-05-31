@@ -1,0 +1,6 @@
+{
+  "name": "English Connect",
+  "description": "A communication and learning application for English teachers and students with real-time group chat, study resource sharing, and an AI English assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
